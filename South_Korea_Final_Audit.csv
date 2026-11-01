@@ -1,0 +1,9 @@
+﻿Check,Status
+Chart dataset contains records,PASS
+Chart dataset has no missing values,PASS
+No duplicate chart records,PASS
+Every chart date contains 50 records,PASS
+Every chart date contains 50 unique positions,PASS
+Momentum validation passed,PASS
+Classification models evaluated,PASS
+Regression models evaluated,PASS

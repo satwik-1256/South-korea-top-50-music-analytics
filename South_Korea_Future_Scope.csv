@@ -1,0 +1,10 @@
+﻿Future Scope
+Integrate streaming and listener engagement data.
+Include social media engagement indicators.
+Evaluate models on newer chart periods.
+Explore additional time-series forecasting methods.
+Investigate classification threshold selection using a separate chronological validation period.
+Explore additional evaluation methods for imbalanced classification datasets.
+Conduct further statistical analysis with larger and more balanced content-category samples.
+Develop an interactive Streamlit analytics dashboard.
+Monitor model performance as new chart observations become available.

@@ -1,0 +1,7 @@
+﻿Check,Value,Status
+Re-entry and Momentum Event Count Match,True,PASS
+Re-entry and Momentum Event Keys Match,True,PASS
+Missing Momentum Scores,0,PASS
+Duplicate Momentum Event Keys,0,PASS
+Non-Finite Momentum Scores,0,PASS
+Scores Outside 0-100,0,PASS

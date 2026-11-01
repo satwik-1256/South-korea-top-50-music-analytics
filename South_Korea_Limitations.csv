@@ -1,0 +1,12 @@
+﻿Limitation
+The analysis excludes chart records dated 1 March 2025 due to unresolved duplicate chart snapshots.
+Re-entry events spanning the excluded date require cautious interpretation.
+Retention observations active at the end of the dataset are right-censored.
+The fandom intensity score is a chart-based proxy and not a direct measurement of audience loyalty or behaviour.
+"The explicit-content statistical comparison includes only 19 explicit songs, limiting the strength and generalizability of the comparison."
+Statistical tests identify associations and do not establish causal relationships.
+"Classification data has an imbalanced target distribution, which affects precision, recall and prediction reliability."
+Classification and regression performance is evaluated on a chronological holdout period and may change on future chart observations.
+"The regression model relies heavily on current chart position, which is an important predictor of subsequent observed chart position."
+"The dataset does not provide direct streaming counts, listener demographics or social media engagement."
+Feature importance describes predictive usefulness within the evaluated models and does not establish causation.
